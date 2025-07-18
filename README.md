@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/kxight7/Leet-code/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/kxight7/Leet-code/tree/master/0035-search-insert-position) |
 | [0283-move-zeroes](https://github.com/kxight7/Leet-code/tree/master/0283-move-zeroes) |
+| [1603-running-sum-of-1d-array](https://github.com/kxight7/Leet-code/tree/master/1603-running-sum-of-1d-array) |
 | [2058-concatenation-of-array](https://github.com/kxight7/Leet-code/tree/master/2058-concatenation-of-array) |
 ## Two Pointers
 |  |
@@ -27,4 +28,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2058-concatenation-of-array](https://github.com/kxight7/Leet-code/tree/master/2058-concatenation-of-array) |
+## Prefix Sum
+|  |
+| ------- |
+| [1603-running-sum-of-1d-array](https://github.com/kxight7/Leet-code/tree/master/1603-running-sum-of-1d-array) |
 <!---LeetCode Topics End-->
